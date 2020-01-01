@@ -71,6 +71,15 @@
       <a href="https://www.electronjs.org" target="_blank"> 
         <code><img alt="electron" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/></code>
       </a>
+      <code><img alt="Rust" height="50" width="50" src="https://img.icons8.com/color/2x/rust-programming-language.png"/></code>
+      <code><img alt="Solana" height="50" width="50" src="placeholder-url-for-solana-icon"/></code>
+      <code><img alt="Bitcoin" height="50" width="50" src="https://img.icons8.com/color/2x/bitcoin.png"/></code>
+      <code><img alt="Ethereum" height="50" width="50" src="https://img.icons8.com/color/2x/ethereum.png"/></code>
+      <code><img alt="Blockchain Technology" height="50" width="50" src="https://img.icons8.com/fluency/2x/blockchain-technology.png"/></code>
+      <code><img alt="Smart Contract" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-a-smart-contract-is-a-computer-program-or-a-transaction-protocol-logo-shadow-tal-revivo.png"/></code>
+      <code><img alt="Litecoin" height="50" width="50" src="https://img.icons8.com/color/2x/litecoin.png"/></code>
+
+
     </div>
   </div>
 <div style="margin: 10px 0px; border-bottom: solid 1px white;">

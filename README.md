@@ -1,5 +1,5 @@
 <div align="center" style="position: relative;">
-  <img align="center" src="https://i.ibb.co/tPkH8gZ/1-zl-FMs-WDXeqv8-JEUJv-Z7w.jpg" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="1.png" style = "width: 50%;"/>
   <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Senior Software Engineer</h1>
 </div>
 <p align="center">

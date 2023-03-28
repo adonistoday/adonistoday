@@ -109,18 +109,6 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#367](https://github.com/vercel-community/php/issues/367) in [vercel-community/php](https://github.com/vercel-community/php)
-2. 🎉 Merged PR [#93](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/93) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-3. 💪 Opened PR [#93](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/93) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-4. 🎉 Merged PR [#92](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/92) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-5. 💪 Opened PR [#92](https://github.com/DenverCoder1/minimalistic-wallpaper-collection/pull/92) in [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
-<!--END_SECTION:activity-->
-
 </details>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>

@@ -6,7 +6,7 @@
   <a href="https://github.com/adonistoday"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20blockchain%20Engineer;5+%2B%20years%20of%20hands-on%20experience;10+%2B%20years%20of%20web%20developing%20experience;&center=true&width=800&height=45"></a>
 </p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
-<h1 align="center"></h1>
+<h1 align="center">I'm passionate about technology! I had my first contact with computers when I was 7 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and experiences, I think that knowledge is something everyone should have access to, and I wanted to have the experience of living in U.S. or Canada for a while.</h1>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
   <div>

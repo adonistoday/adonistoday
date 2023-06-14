@@ -107,18 +107,3 @@
 
 </details>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <div style="display: flex; align-items: center;">
-      <a href="https://t.me/dorieDev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">@dorieDev</b>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <a href="mailto:todaydev0000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">todaydev0000@gmail.com</b>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <a href="/"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">live:.cid.219d02fe9280098b</b>
-    </div>
-  </div>
-<div>

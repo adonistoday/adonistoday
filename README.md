@@ -79,7 +79,7 @@
       <code style="margin: 5px"><a href="https://www.blockchain.com"><img alt="BlockChain" title="BlockChain" src="https://github.com/Nicoli430/logoMaster/blob/master/blockchain.png" height="42"></a></code>
 
 
-    </div>
+   
   </div>
 <div style="margin: 10px 0px; border-bottom: solid 1px white;">
   <a href="https://github.com/adonistoday"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
